@@ -1,6 +1,6 @@
 # Road to Web 3 Week 2 Project
 
-This project demonstrates a basic Hardhat use case, which is to Make NFTs with on-chain metadata, using Hardhat and JavaScript. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic Hardhat use case, which is to set up an app that allows users to buy me coffee. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
